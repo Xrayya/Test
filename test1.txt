@@ -1,2 +1,5 @@
 Baiklah, ini adalah test1
 Saya akan mencoba mengubah file ini beberapa kali dan kita lihat perubahannya
+Saya mecoba menambah baris ketiga
+Di commit selanjutnya, baris ini akan saya hapus
+Kita lihat perubahannya
